@@ -29,7 +29,7 @@
         <div id="page-content-wrapper">
             <div class="container-fluid">
                 <h1>Data Pesanan</h1>
-                <a href="transactionsform.php" class="btn btn-success">Tambah Pesanan</a>
+                <a href='pesanform' class="btn btn-success">Tambah Pesanan</a>
 
                 <hr>
 

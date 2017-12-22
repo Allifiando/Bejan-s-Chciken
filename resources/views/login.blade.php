@@ -40,9 +40,8 @@
                         <input type="checkbox" value="remember-me"> Remember me
                     </label>
                 </div>
-                <a href="home.php"><button name="submitsignin" class="btn btn-lg btn-primary btn-block btn-signin" type="button">Sign in</button></a>
+                <a href='home'><button name="submitsignin" class="btn btn-lg btn-primary btn-block btn-signin" type="button">Sign in</button></a>
             </form><!-- /form -->
-            <a href="signupnrp.php" class="forgot-password">Sign up</a>
         </div><!-- /card-container -->
     </div><!-- /container -->
 

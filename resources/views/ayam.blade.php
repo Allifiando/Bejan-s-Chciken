@@ -29,7 +29,7 @@
         <div id="page-content-wrapper">
             <div class="container-fluid">
                 <h1>Ayam</h1>
-                <a href="pegawaiform.php" class="btn btn-success">Tambah Ayam</a>
+                <a href='ayamform' class="btn btn-success">Tambah Ayam</a>
                 <hr>
 
                 <table class="table table-bordered table-striped">
@@ -39,7 +39,7 @@
                             <th>Jenis</th>
                             <th>Umur</th>
                             <th>Berat</th>
-                            <th></th>
+                            <th>Tempat</th>
                         </tr>
                     </thead>
                 </table>

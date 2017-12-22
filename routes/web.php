@@ -17,6 +17,9 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('home');
 });
+Route::get('/login', function () {
+    return view('login');
+});
 Route::get('/agen', function () {
     return view('agen');
 });
@@ -30,7 +33,7 @@ Route::get('/pesan', function () {
     return view('pesan');
 });
 Route::get('/statistik', function () {
-    return view('sttaistik');
+    return view('staistik');
 });
 Route::get('/datajual', function () {
     return view('datajual');
@@ -38,3 +41,17 @@ Route::get('/datajual', function () {
 Route::get('/profil', function () {
     return view('profil');
 });
+Route::get('/agenform', function () {
+    return view('agenform');
+});
+Route::get('/ayamform', function () {
+    return view('ayamform');
+});
+Route::get('/telurform', function () {
+    return view('telurform');
+});
+
+Route::get('/pesanform', function () {
+    return view('pesanform');
+});
+

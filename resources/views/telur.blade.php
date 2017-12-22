@@ -29,7 +29,7 @@
         <div id="page-content-wrapper">
             <div class="container-fluid">
                 <h1>Telur</h1>
-                <a href="pegawaiform.php" class="btn btn-success">Tambah Telur</a>
+                <a href='telurform' class="btn btn-success">Tambah Telur</a>
                 <hr>
 
                 <table class="table table-bordered table-striped">

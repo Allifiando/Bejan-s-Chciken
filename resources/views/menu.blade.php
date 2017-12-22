@@ -10,7 +10,7 @@
         <li><a href='datajual'>Data Penjualan</a></li>
         <li><a href='myprofile'>Warning</a></li>
         <li><a href='profil'>My Profile</a></li>
-        <li><a href='signout'>Sign out</a></li>
+        <li><a href='login'>Sign out</a></li>
     </ul>
 </div>
 <!-- /#sidebar-wrapper -->

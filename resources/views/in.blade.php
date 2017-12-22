@@ -74,7 +74,7 @@
                             </ul>
                         </li>
                         <li><a href="contact.html">Contact</a></li>
-                        <li class="btn-cta"><a href="login.php"><span>Login</span></a></li>
+                        <li class="btn-cta"><a href='login'><span>Login</span></a></li>
                     </ul>
                 </div>
             </div>

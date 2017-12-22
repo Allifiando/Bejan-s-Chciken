@@ -29,7 +29,7 @@
         <div id="page-content-wrapper">
             <div class="container-fluid">
                 <h1>Agen</h1>
-                <a href="pegawaiform.php" class="btn btn-success">Tambah Agen</a>
+                <a href='agenform' class="btn btn-success">Tambah Agen</a>
                 <hr>
 
                 <table class="table table-bordered table-striped">
